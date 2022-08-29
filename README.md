@@ -1,12 +1,12 @@
 # NGUYỄN ĐẶNG TRƯỜNG AN
 <p align="center">
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6"> -->
-<img src="https://hacked-github-stat-trophies.vercel.app/?username=tynab&theme=dracula&column=11">
+<img src="https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6">
+<!-- <img src="https://hacked-github-stat-trophies.vercel.app/?username=tynab&theme=dracula&column=11"> -->
 </p>
 
 <p align=left>
-<img algin="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula" />
-<img algin="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tynab&theme=dracula" />
+<img algin="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula" />
+<img algin="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tynab&theme=dracula" />
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tynab&theme=dracula" />
