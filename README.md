@@ -39,3 +39,6 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VS.png" width="50" title="Visual Studio">
 </p>
 
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=tynab&data=followers,repositories,stars,commits">
+</p>
