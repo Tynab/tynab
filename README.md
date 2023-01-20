@@ -5,12 +5,14 @@
 </p>
 
 <p align=left>
-<img algin="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula" />
+<!-- <img algin="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula" /> -->
+<img algin="left" width="49%" src="https://readme-stats-fabio-vicente.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula" />
 <img algin="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tynab&theme=dracula" />
 </p>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=10" /> -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tynab&theme=dracula" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tynab&theme=dracula" /> -->
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tynab&theme=dracula" />
 
 <p algin="right">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/HTML.png" width="50" title="HTML">
