@@ -11,12 +11,10 @@
 </p>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=10" /> -->
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tynab&theme=dracula" /> -->
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tynab&theme=dracula" />
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tynab&theme=dracula" />
+<!-- <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tynab&theme=dracula" /> -->
 
 <p algin="right">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/XML.png" width="50" title="XML">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/XAML.png" width="50" title="XAML">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/HTML.png" width="50" title="HTML">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CSS.png" width="50" title="CSS">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/JS.png" width="50" title="JS">
