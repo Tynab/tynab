@@ -23,6 +23,7 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/C.png" width="50" title="C">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CPP.png" width="50" title="C++">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CS.png" width="50" title="C#">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Python.png" width="50" title="Python">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Java.png" width="50" title="Java">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Postgre.png"n width="50" title="PostgreSQL">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MySQL.png"n width="50" title="MySQL">
@@ -42,9 +43,12 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/RabbitMQ.png" width="50" title="Rabbit MQ">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Docker.png" width="50" title="Docker">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Git.png" width="50" title="Git">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Eclipse.png" width="50" title="Eclipse">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VSCode.png" width="50" title="Visual Studio Code">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VS.png" width="50" title="Visual Studio">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VSCode.png" width="50" title="Visual Studio Code">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Anaconda.png" width="50" title="Anaconda Navigator">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Jupyter.png" width="50" title="Jupyter Notebook">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Colab.png" width="50" title="Google Colab">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Eclipse.png" width="50" title="Eclipse">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/GitHub.png" width="50" title="GitHub">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/GitLab.png" width="50" title="GitLab">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Procfile.png" width="50" title="Heroku">
