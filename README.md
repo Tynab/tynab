@@ -36,8 +36,9 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Entity.png" width="50" title="Entity">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/ABP.png" width="50" title="ABP">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CCF.png" width="50" title="Cimetrix Control">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Elasticsearch.png" width="50" title="Elastic">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/cc.png" width="50" title="Logstash">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Elastic.png" width="50" title="Elastic">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Elasticsearch.png" width="50" title="Elasticsearch">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Logstash.png" width="50" title="Logstash">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Kibana.png" width="50" title="Kibana">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Kafka.png" width="50" title="Apache Kafka">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/RabbitMQ.png" width="50" title="RabbitMQ">
