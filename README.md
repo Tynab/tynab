@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Java.png" width="50" title="Java">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Postgre.png"n width="50" title="PostgreSQL">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MySQL.png"n width="50" title="MySQL">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MSSS.png" width="50" title="SQL Server">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MSSS.png" width="50" title="Microsoft SQL Server">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MongoDB.png" width="50" title="MongoDB">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Redis.png" width="50" title="Redis">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Boostrap.png" width="50" title="Boostrap">
