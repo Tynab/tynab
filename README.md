@@ -32,20 +32,34 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MongoDB.png" width="50" title="MongoDB">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Redis.png" width="50" title="Redis">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Boostrap.png" width="50" title="Boostrap">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/dotNETF.png" width="50" title=".NET Core">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/dotNETCore.png" width="50" title=".NET Framework">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/ASP.png" width="50" title="ASP.NET">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/ASPCore.png" width="50" title="ASP.NET Core">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Entity.png" width="50" title="Entity Framework">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/EntityCore.png" width="50" title="Entity Framework Core">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/dotNET.png" width="50" title=".NET">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Maven.png" width="50" title="Apache Maven">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Spring.png" width="50" title="Spring">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/ABP.png" width="50" title="ABP">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/CCF.png" width="50" title="Cimetrix Control">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/ADO.png" width="50" title="ADO.NET">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Xamarin.png" width="50" title="Xamarin">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MAUI.png" width="50" title="MAUI">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Lombok.png" width="50" title="Lombok">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Elastic.png" width="50" title="Elastic">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Elasticsearch.png" width="50" title="Elasticsearch">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Logstash.png" width="50" title="Logstash">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Kibana.png" width="50" title="Kibana">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Kafka.png" width="50" title="Apache Kafka">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Serilog.png" width="50" title="Serilog">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/RabbitMQ.png" width="50" title="RabbitMQ">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Kafka.png" width="50" title="Apache Kafka">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Maven.png" width="50" title="Apache Maven">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Tomcat.png" width="50" title="Apache Tomcat">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/AutoMapper.png" width="50" title="AutoMapper">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Dapper.png" width="50" title="Dapper ORM">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Git.png" width="50" title="Git">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Jenkins.png" width="50" title="Jenkins">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/LiveServer.png" width="50" title="Live Server">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Docker.png" width="50" title="Docker">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VSCode.png" width="50" title="Visual Studio Code">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/VS.png" width="50" title="Visual Studio">
@@ -63,7 +77,6 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/GitLab.png" width="50" title="GitLab">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Procfile.png" width="50" title="Heroku">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Font.png" width="50" title="Font Awesome">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Atlassian.png" width="50" title="Atlassian">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Confluence.png" width="50" title="Confluence Software">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Jira.png" width="50" title="Jira Software">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Stack.png" width="50" title="Stack Overflow">
