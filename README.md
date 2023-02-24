@@ -32,8 +32,8 @@
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/MongoDB.png" width="50" title="MongoDB">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Redis.png" width="50" title="Redis">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Boostrap.png" width="50" title="Boostrap">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/dotNETF.png" width="50" title=".NET Core">
-    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/dotNETCore.png" width="50" title=".NET Framework">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/dotNETF.png" width="50" title=".NET Framework">
+    <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/dotNETCore.png" width="50" title=".NET Core">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/ASP.png" width="50" title="ASP.NET">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/ASPCore.png" width="50" title="ASP.NET Core">
     <img src="https://raw.githubusercontent.com/Tynab/Tynab/main/pic/Entity.png" width="50" title="Entity Framework">
