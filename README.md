@@ -83,31 +83,31 @@
 </p>
 
 <div class='cert'>
-<a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
+<a href='https://www.hackerrank.com/certificates/18b8b69e9e0f'>
     <img src="certificate/Java1.png" alt="1" style="width: 260px;">
 </a>
-<a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
+<a href='https://www.hackerrank.com/certificates/84f184e645db'>
     <img src="certificate/JavaScript1.png" alt="1" style="width: 260px;">
 </a>
-<a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
+<a href='https://www.hackerrank.com/certificates/923b39aff6b7'>
     <img src="certificate/Python1.png" alt="1" style="width: 260px;">
 </a>
-<a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
+<a href='https://www.hackerrank.com/certificates/227d1e48e38e'>
     <img src="certificate/SQL1.png" alt="1" style="width: 260px;">
 </a>
-<a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
+<a href='https://www.hackerrank.com/certificates/0f5bc77ae34a'>
     <img src="certificate/Problem1.png" alt="1" style="width: 260px;">
 </a>
-<a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
+<a href='https://www.hackerrank.com/certificates/9136c4f105da'>
     <img src="certificate/JavaScript2.png" alt="1" style="width: 260px;">
 </a>
-<a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
+<a href='https://www.hackerrank.com/certificates/b25f42ef5164'>
     <img src="certificate/SQL2.png" alt="1" style="width: 260px;">
 </a>
-<a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
+<a href='https://www.hackerrank.com/certificates/51c373908367'>
     <img src="certificate/Rest2.png" alt="1" style="width: 260px;">
 </a>
-<a href='https://www.hackerrank.com/certificates/cfa2ab8f318f'>
+<a href='https://www.hackerrank.com/certificates/9c262c7c1e37'>
     <img src="certificate/SQL3.png" alt="1" style="width: 260px;">
 </a>
 </div>
