@@ -70,14 +70,7 @@
     <img src='pic/Git.png' width='55' title='Git'>
     <img src='pic/Jenkins.png' width='55' title='Jenkins'>
     <img src='pic/Docker.png' width='55' title='Docker'>
-    <img src='pic/VSCode.png' width='55' title='Visual Studio Code'>
-    <img src='pic/VS.png' width='55' title='Visual Studio'>
-    <img src='pic/Eclipse.png' width='55' title='Eclipse'>
-    <img src='pic/Colab.png' width='55' title='Google Colab'>
-    <img src='pic/Anaconda.png' width='55' title='Anaconda Navigator'>
     <img src='pic/Jupyter.png' width='55' title='Jupyter Notebook'>
-    <img src='pic/Postman.png' width='55' title='Postman'>
-    <img src='pic/Swagger.png' width='55' title='Swagger'>
 </p>
 
 <p align='center'>
