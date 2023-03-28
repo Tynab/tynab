@@ -65,9 +65,12 @@
     <img src='pic/Dapper.png' width='55' title='Dapper ORM'>
     <img src='pic/Selenium.png' width='55' title='Selenium'>
     <img src='pic/SharpZipLib.png' width='55' title='SharpZipLib'>
+    <img src='pic/EPPlus.png' width='55' title='EPPlus'>
+    <img src='pic/Google.png' width='55' title='Google APIs'>
     <img src='pic/NumPy.png' width='55' title='NumPy'>
     <img src='pic/Matplotlib.png' width='55' title='Matplotlib'>
     <img src='pic/Pandas.png' width='55' title='Pandas'>
+    <img src='pic/sklearn.png' width='55' title='scikit-learn'>
     <img src='pic/Git.png' width='55' title='Git'>
     <img src='pic/Jenkins.png' width='55' title='Jenkins'>
     <img src='pic/Docker.png' width='55' title='Docker'>

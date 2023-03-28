@@ -1,1 +1,2 @@
+**/wwwroot/libs/** linguist-vendored
 pic/** !text !filter !merge !diff
