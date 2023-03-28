@@ -67,6 +67,11 @@
     <img src='pic/SharpZipLib.png' width='55' title='SharpZipLib'>
     <img src='pic/EPPlus.png' width='55' title='EPPlus'>
     <img src='pic/Google.png' width='55' title='Google APIs'>
+    <img src='pic/NSubstitute.png' width='55' title='NSubstitute'>
+    <img src='pic/JetBrains.png' width='55' title='JetBrains'>
+    <img src='pic/Shouldly.png' width='55' title='Shouldly'>
+    <img src='pic/xunit.png' width='55' title='xUnit.net'>
+    <img src='pic/HtmlAgilityPack.png' width='55' title='Html Agility Pack'>
     <img src='pic/NumPy.png' width='55' title='NumPy'>
     <img src='pic/Matplotlib.png' width='55' title='Matplotlib'>
     <img src='pic/Pandas.png' width='55' title='Pandas'>
