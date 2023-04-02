@@ -61,7 +61,7 @@
     <img src='pic/NSubstitute.png' width='55' title='NSubstitute'>
     <img src='pic/JetBrains.png' width='55' title='JetBrains'>
     <img src='pic/Shouldly.png' width='55' title='Shouldly'>
-    <img src='pic/xunit.png' width='55' title='xUnit.net'>
+    <img src='pic/xunit.png' width='55' title='xUnit'>
     <img src='pic/HtmlAgilityPack.png' width='55' title='Html Agility Pack'>
     <img src='pic/NumPy.png' width='55' title='NumPy'>
     <img src='pic/Matplotlib.png' width='55' title='Matplotlib'>
