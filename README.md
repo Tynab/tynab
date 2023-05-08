@@ -67,6 +67,8 @@
     <img src='pic/NumPy.png' width='55' title='NumPy'>
     <img src='pic/Matplotlib.png' width='55' title='Matplotlib'>
     <img src='pic/Pandas.png' width='55' title='Pandas'>
+    <img src='pic/seaborn.png' width='55' title='seaborn'>
+    <img src='pic/Plotly.png' width='55' title='Plotly'>
     <img src='pic/sklearn.png' width='55' title='scikit-learn'>
     <img src='pic/Git.png' width='55' title='Git'>
     <img src='pic/Jenkins.png' width='55' title='Jenkins'>
