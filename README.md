@@ -91,7 +91,7 @@
     <img src='certificate/Python1.png' width='279' title='Python (Basic)'>
 </a>
 <a href='https://www.hackerrank.com/certificates/6f3edd29f8f7'>
-    <img src='certificate/Problem1.png' width='279' title='Go (Basic)'>
+    <img src='certificate/Go1.png' width='279' title='Go (Basic)'>
 </a>
 <a href='https://www.hackerrank.com/certificates/227d1e48e38e'>
     <img src='certificate/SQL1.png' width='279' title='SQL (Basic)'>
@@ -103,13 +103,13 @@
     <img src='certificate/JavaScript2.png' width='279' title='JavaScript (Intermediate)'>
 </a>
 <a href='https://www.hackerrank.com/certificates/fe8553df0712'>
-    <img src='certificate/Problem1.png' width='279' title='Go (Intermediate)'>
+    <img src='certificate/Go2.png' width='279' title='Go (Intermediate)'>
 </a>
 <a href='https://www.hackerrank.com/certificates/b25f42ef5164'>
     <img src='certificate/SQL2.png' width='279' title='SQL (Intermediate)'>
 </a>
 <a href='https://www.hackerrank.com/certificates/afa149d488a2'>
-    <img src='certificate/Problem1.png' width='279' title='Problem Solving (Intermediate)'>
+    <img src='certificate/Problem2.png' width='279' title='Problem Solving (Intermediate)'>
 </a>
 <a href='https://www.hackerrank.com/certificates/51c373908367'>
     <img src='certificate/Rest2.png' width='279' title='Rest API (Intermediate)'>
