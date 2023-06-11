@@ -55,8 +55,6 @@
     <img src='pic/Auth0.png' width='55' title='Auth0'>
     <img src='pic/Fody.png' width='55' title='Fody'>
     <img src='pic/RestSharp.png' width='55' title='RestSharp'>
-    <img src='pic/Fluent.png' width='55' title='FluentValidation'>
-    <img src='pic/AutoMapper.png' width='55' title='AutoMapper'>
     <img src='pic/Dapper.png' width='55' title='Dapper ORM'>
     <img src='pic/Selenium.png' width='55' title='Selenium'>
     <img src='pic/SharpZipLib.png' width='55' title='SharpZipLib'>
