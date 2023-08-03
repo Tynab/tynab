@@ -15,76 +15,76 @@
 <!-- <img align='left' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tynab&theme=dracula' /> -->
 
 <p algin='right'>
-    <img src='pic/HTML.png' width='52' title='HTML'>
-    <img src='pic/CSS.png' width='52' title='CSS'>
-    <img src='pic/JS.png' width='52' title='JavaScript'>
-    <img src='pic/jQuery.png' width='52' title='jQuery'>
-    <img src='pic/VBNET.png' width='52' title='Visual Basic'>
-    <img src='pic/C.png' width='52' title='C'>
-    <img src='pic/CPP.png' width='52' title='C++'>
-    <img src='pic/CS.png' width='52' title='C#'>
-    <img src='pic/Python.png' width='52' title='Python'>
-    <img src='pic/Java.png' width='52' title='Java'>
-    <img src='pic/Jupyter.png' width='52' title='Jupyter Notebook'>
-    <img src='pic/Postgre.png'n width='52' title='PostgreSQL'>
-    <img src='pic/MySQL.png'n width='52' title='MySQL'>
-    <img src='pic/MSSS.png' width='52' title='Microsoft SQL Server'>
-    <img src='pic/SQLite.png' width='52' title='SQLite'>
-    <img src='pic/MongoDB.png' width='52' title='MongoDB'>
-    <img src='pic/Redis.png' width='52' title='Redis'>
-    <img src='pic/Azure.png' width='52' title='Azure'>
-    <img src='pic/AWS.png' width='52' title='AWS'>
-    <img src='pic/Cloudflare.png' width='52' title='Cloudflare'>
-    <img src='pic/Heroku.png' width='52' title='Heroku'>
-    <img src='pic/NuGet.png' width='52' title='NuGet'>
-    <img src='pic/Boostrap.png' width='52' title='Boostrap'>
-    <img src='pic/dotNET.png' width='52' title='.NET'>
-    <img src='pic/Spring.png' width='52' title='Spring'>
-    <img src='pic/ABP.png' width='52' title='ABP'>
-    <img src='pic/CCF.png' width='52' title='Cimetrix Control'>
-    <img src='pic/CAP.png' width='52' title='CAP'>
-    <img src='pic/Elasticsearch.png' width='52' title='Elasticsearch'>
-    <img src='pic/Logstash.png' width='52' title='Logstash'>
-    <img src='pic/Kibana.png' width='52' title='Kibana'>
-    <img src='pic/APM.png' width='52' title='APM'>
-    <img src='pic/Serilog.png' width='52' title='Serilog'>
-    <img src='pic/RabbitMQ.png' width='52' title='RabbitMQ'>
-    <img src='pic/Kafka.png' width='52' title='Apache Kafka'>
-    <img src='pic/Maven.png' width='52' title='Apache Maven'>
-    <img src='pic/Tomcat.png' width='52' title='Apache Tomcat'>
-    <img src='pic/Thymeleaf.png' width='52' title='Thymeleaf'>
-    <img src='pic/Lombok.png' width='52' title='Lombok'>
-    <img src='pic/Auth0.png' width='52' title='Auth0'>
-    <img src='pic/Fody.png' width='52' title='Fody'>
-    <img src='pic/RestSharp.png' width='52' title='RestSharp'>
-    <img src='pic/Selenium.png' width='52' title='Selenium'>
-    <img src='pic/SharpZipLib.png' width='52' title='SharpZipLib'>
-    <img src='pic/Google.png' width='52' title='Google Cloud Platform'>
-    <img src='pic/NSubstitute.png' width='52' title='NSubstitute'>
-    <img src='pic/Shouldly.png' width='52' title='Shouldly'>
-    <img src='pic/xunit.png' width='52' title='xUnit'>
-    <img src='pic/HtmlAgilityPack.png' width='52' title='Html Agility Pack'>
-    <img src='pic/BenchmarkDotNet.png' width='52' title='BenchmarkDotNet'>
-    <img src='pic/NumPy.png' width='52' title='NumPy'>
-    <img src='pic/Matplotlib.png' width='52' title='Matplotlib'>
-    <img src='pic/Pandas.png' width='52' title='Pandas'>
-    <img src='pic/seaborn.png' width='52' title='seaborn'>
-    <img src='pic/Plotly.png' width='52' title='Plotly'>
-    <img src='pic/sklearn.png' width='52' title='scikit-learn'>
-    <img src='pic/TensorFlow.png' width='52' title='TensorFlow'>
-    <img src='pic/Keras.png' width='52' title='Keras'>
-    <img src='pic/Git.png' width='52' title='Git'>
-    <img src='pic/Docker.png' width='52' title='Docker'>
-    <img src='pic/Vagrant.png' width='52' title='Vagrant'>
-    <img src='pic/K8s.png' width='52' title='Kubernetes'>
-    <img src='pic/Jenkins.png' width='52' title='Jenkins'>
-    <img src='pic/Ansible.png' width='52' title='Ansible'>
-    <img src='pic/Portainer.png' width='52' title='Portainer'>
-    <img src='pic/NGINX.png' width='52' title='NGINX'>
-    <img src='pic/NginxProxyManager.png' width='52' title='Nginx Proxy Manager'>
-    <img src='pic/ngrok.png' width='52' title='ngrok'>
-    <img src='pic/EC2.png' width='52' title='EC2'>
-    <img src='pic/Calico.png' width='52' title='Project Calico'>
+    <img src='pic/HTML.png' width='51' title='HTML'>
+    <img src='pic/CSS.png' width='51' title='CSS'>
+    <img src='pic/JS.png' width='51' title='JavaScript'>
+    <img src='pic/jQuery.png' width='51' title='jQuery'>
+    <img src='pic/VBNET.png' width='51' title='Visual Basic'>
+    <img src='pic/C.png' width='51' title='C'>
+    <img src='pic/CPP.png' width='51' title='C++'>
+    <img src='pic/CS.png' width='51' title='C#'>
+    <img src='pic/Python.png' width='51' title='Python'>
+    <img src='pic/Java.png' width='51' title='Java'>
+    <img src='pic/Jupyter.png' width='51' title='Jupyter Notebook'>
+    <img src='pic/Postgre.png'n width='51' title='PostgreSQL'>
+    <img src='pic/MySQL.png'n width='51' title='MySQL'>
+    <img src='pic/MSSS.png' width='51' title='Microsoft SQL Server'>
+    <img src='pic/SQLite.png' width='51' title='SQLite'>
+    <img src='pic/MongoDB.png' width='51' title='MongoDB'>
+    <img src='pic/Redis.png' width='51' title='Redis'>
+    <img src='pic/Azure.png' width='51' title='Azure'>
+    <img src='pic/AWS.png' width='51' title='AWS'>
+    <img src='pic/Cloudflare.png' width='51' title='Cloudflare'>
+    <img src='pic/Heroku.png' width='51' title='Heroku'>
+    <img src='pic/NuGet.png' width='51' title='NuGet'>
+    <img src='pic/Boostrap.png' width='51' title='Boostrap'>
+    <img src='pic/dotNET.png' width='51' title='.NET'>
+    <img src='pic/Spring.png' width='51' title='Spring'>
+    <img src='pic/ABP.png' width='51' title='ABP'>
+    <img src='pic/CCF.png' width='51' title='Cimetrix Control'>
+    <img src='pic/CAP.png' width='51' title='CAP'>
+    <img src='pic/Elasticsearch.png' width='51' title='Elasticsearch'>
+    <img src='pic/Logstash.png' width='51' title='Logstash'>
+    <img src='pic/Kibana.png' width='51' title='Kibana'>
+    <img src='pic/APM.png' width='51' title='APM'>
+    <img src='pic/Serilog.png' width='51' title='Serilog'>
+    <img src='pic/RabbitMQ.png' width='51' title='RabbitMQ'>
+    <img src='pic/Kafka.png' width='51' title='Apache Kafka'>
+    <img src='pic/Maven.png' width='51' title='Apache Maven'>
+    <img src='pic/Tomcat.png' width='51' title='Apache Tomcat'>
+    <img src='pic/Thymeleaf.png' width='51' title='Thymeleaf'>
+    <img src='pic/Lombok.png' width='51' title='Lombok'>
+    <img src='pic/Auth0.png' width='51' title='Auth0'>
+    <img src='pic/Fody.png' width='51' title='Fody'>
+    <img src='pic/RestSharp.png' width='51' title='RestSharp'>
+    <img src='pic/Selenium.png' width='51' title='Selenium'>
+    <img src='pic/SharpZipLib.png' width='51' title='SharpZipLib'>
+    <img src='pic/Google.png' width='51' title='Google Cloud Platform'>
+    <img src='pic/NSubstitute.png' width='51' title='NSubstitute'>
+    <img src='pic/Shouldly.png' width='51' title='Shouldly'>
+    <img src='pic/xunit.png' width='51' title='xUnit'>
+    <img src='pic/HtmlAgilityPack.png' width='51' title='Html Agility Pack'>
+    <img src='pic/BenchmarkDotNet.png' width='51' title='BenchmarkDotNet'>
+    <img src='pic/NumPy.png' width='51' title='NumPy'>
+    <img src='pic/Matplotlib.png' width='51' title='Matplotlib'>
+    <img src='pic/Pandas.png' width='51' title='Pandas'>
+    <img src='pic/seaborn.png' width='51' title='seaborn'>
+    <img src='pic/Plotly.png' width='51' title='Plotly'>
+    <img src='pic/sklearn.png' width='51' title='scikit-learn'>
+    <img src='pic/TensorFlow.png' width='51' title='TensorFlow'>
+    <img src='pic/Keras.png' width='51' title='Keras'>
+    <img src='pic/Git.png' width='51' title='Git'>
+    <img src='pic/Docker.png' width='51' title='Docker'>
+    <img src='pic/Vagrant.png' width='51' title='Vagrant'>
+    <img src='pic/K8s.png' width='51' title='Kubernetes'>
+    <img src='pic/Jenkins.png' width='51' title='Jenkins'>
+    <img src='pic/Ansible.png' width='51' title='Ansible'>
+    <img src='pic/Portainer.png' width='51' title='Portainer'>
+    <img src='pic/NGINX.png' width='51' title='NGINX'>
+    <img src='pic/NginxProxyManager.png' width='51' title='Nginx Proxy Manager'>
+    <img src='pic/ngrok.png' width='51' title='ngrok'>
+    <img src='pic/EC2.png' width='51' title='EC2'>
+    <img src='pic/Calico.png' width='51' title='Project Calico'>
 </p>
 
 <p align='center'>
