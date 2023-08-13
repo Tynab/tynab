@@ -83,7 +83,10 @@
     <img src='pic/NGINX.png' width='49' title='NGINX'>
     <img src='pic/NginxProxyManager.png' width='49' title='Nginx Proxy Manager'>
     <img src='pic/ngrok.png' width='49' title='ngrok'>
+    <img src='pic/IAM.png' width='49' title='IAM'>
     <img src='pic/EC2.png' width='49' title='EC2'>
+    <img src='pic/VPC.png' width='49' title='VPC'>
+    <img src='pic/K9s.png' width='49' title='K9s'>
     <img src='pic/Calico.png' width='49' title='Project Calico'>
 </p>
 
