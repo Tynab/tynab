@@ -101,14 +101,13 @@
     <img src='pic/AzureTestPlans.png' width='49' title='Azure Test Plans'>
     <img src='pic/AzureArtifacts.png' width='49' title='Azure Artifacts'>
     <img src='pic/AzureAppService.png' width='49' title='Azure App Service'>
-    <img src='pic/AzureApplicationInsights.png' width='49' title='Azure Application Insights'>
-    <img src='pic/AzureResourceGroup.png' width='49' title='Azure Resource Group'>
-    <img src='pic/AzureSubscription.png' width='49' title='Azure Subscription'>
+    <img src='pic/RedisAzure.png' width='49' title='Azure Cache for Redis'>
     <img src='pic/IAM.png' width='49' title='IAM'>
     <img src='pic/EC2.png' width='49' title='EC2'>
     <img src='pic/VPC.png' width='49' title='VPC'>
     <img src='pic/ECS.png' width='49' title='ECS'>
     <img src='pic/EKS.png' width='49' title='EKS'>
+    <img src='pic/ElastiCache.png' width='49' title='ElastiCache'>
     <img src='pic/AwsCostExplorer.png' width='49' title='AWS Cost Explorer'>
 </p>
 
