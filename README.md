@@ -44,6 +44,7 @@
     <img src='pic/ABP.png' width='49' title='ABP'>
     <img src='pic/CCF.png' width='49' title='Cimetrix Control'>
     <img src='pic/CAP.png' width='49' title='CAP'>
+    <img src='pic/Elastic.png' width='49' title='Elastic'>
     <img src='pic/ElasticStack.png' width='49' title='Elastic Stack'>
     <img src='pic/Elasticsearch.png' width='49' title='Elasticsearch'>
     <img src='pic/Logstash.png' width='49' title='Logstash'>
@@ -69,6 +70,8 @@
     <img src='pic/HtmlAgilityPack.png' width='49' title='Html Agility Pack'>
     <img src='pic/BenchmarkDotNet.png' width='49' title='BenchmarkDotNet'>
     <img src='pic/GithubCopilot.png' width='49' title='GitHub Copilot'>
+    <img src='pic/FluentAssertions.png' width='49' title='FluentAssertions'>
+    <img src='pic/MediatR.png' width='49' title='MediatR'>
     <img src='pic/NumPy.png' width='49' title='NumPy'>
     <img src='pic/Matplotlib.png' width='49' title='Matplotlib'>
     <img src='pic/Pandas.png' width='49' title='Pandas'>
@@ -85,7 +88,6 @@
     <img src='pic/Ansible.png' width='49' title='Ansible'>
     <img src='pic/Portainer.png' width='49' title='Portainer'>
     <img src='pic/NGINX.png' width='49' title='NGINX'>
-    <img src='pic/NginxProxyManager.png' width='49' title='Nginx Proxy Manager'>
     <img src='pic/ngrok.png' width='49' title='ngrok'>
     <img src='pic/Calico.png' width='49' title='Project Calico'>
     <img src='pic/K9s.png' width='49' title='K9s'>
@@ -101,6 +103,7 @@
     <img src='pic/AzureArtifacts.png' width='49' title='Azure Artifacts'>
     <img src='pic/AzureAppService.png' width='49' title='Azure App Service'>
     <img src='pic/RedisAzure.png' width='49' title='Azure Cache for Redis'>
+    <img src='pic/ServiceBus.png' width='49' title='Azure Service Bus'>
     <img src='pic/IAM.png' width='49' title='EC2'>
     <img src='pic/VPC.png' width='49' title='VPC'>
     <img src='pic/Lambda.png' width='49' title='Lambda'>
