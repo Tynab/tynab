@@ -101,11 +101,17 @@
     <img src='pic/AzureArtifacts.png' width='49' title='Azure Artifacts'>
     <img src='pic/AzureAppService.png' width='49' title='Azure App Service'>
     <img src='pic/RedisAzure.png' width='49' title='Azure Cache for Redis'>
-    <img src='pic/EC2.png' width='49' title='EC2'>
+    <img src='pic/IAM.png' width='49' title='EC2'>
     <img src='pic/VPC.png' width='49' title='VPC'>
-    <img src='pic/ECS.png' width='49' title='ECS'>
+    <img src='pic/Lambda.png' width='49' title='Lambda'>
+    <img src='pic/EC2.png' width='49' title='EC2'>
     <img src='pic/EKS.png' width='49' title='EKS'>
+    <img src='pic/ECS.png' width='49' title='ECS'>
+    <img src='pic/ECR.png' width='49' title='ECR'>
+    <img src='pic/RDS.png' width='49' title='RDS'>
     <img src='pic/ElastiCache.png' width='49' title='ElastiCache'>
+    <img src='pic/S3.png' width='49' title='S3'>
+    <img src='pic/AmazonMQ.png' width='49' title='Amazon MQ'>
 </p>
 
 <p align='center'>
