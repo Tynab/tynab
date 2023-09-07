@@ -113,8 +113,14 @@
     <img src='pic/ECR.png' width='49' title='ECR'>
     <img src='pic/RDS.png' width='49' title='RDS'>
     <img src='pic/ElastiCache.png' width='49' title='ElastiCache'>
+    <img src='pic/AmazonOpenSearchService.png' width='49' title='Amazon OpenSearch Service'>
     <img src='pic/S3.png' width='49' title='S3'>
     <img src='pic/AmazonMQ.png' width='49' title='Amazon MQ'>
+    <img src='pic/CloudFront.png' width='49' title='CloudFront'>
+    <img src='pic/Route53.png' width='49' title='Route 53'>
+    <img src='pic/CertificateManager.png' width='49' title='Certificate Manager'>
+    <img src='pic/Billing.png' width='49' title='Billing'>
+    <img src='pic/AWSCostManagement.png' width='49' title='AWS Cost Management'>
 </p>
 
 <p align='center'>
