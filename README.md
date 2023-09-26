@@ -112,6 +112,7 @@
     <img src='pic/ECS.png' width='49' title='ECS'>
     <img src='pic/ECR.png' width='49' title='ECR'>
     <img src='pic/RDS.png' width='49' title='RDS'>
+    <img src='pic/AmazonDocumentDB.png' width='49' title='Amazon DocumentDB'>
     <img src='pic/ElastiCache.png' width='49' title='ElastiCache'>
     <img src='pic/AmazonOpenSearchService.png' width='49' title='Amazon OpenSearch Service'>
     <img src='pic/S3.png' width='49' title='S3'>
