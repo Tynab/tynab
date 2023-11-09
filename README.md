@@ -36,10 +36,12 @@
     <img src='pic/MongoDb.png' width='49' title='MongoDB'>
     <img src='pic/Redis.png' width='49' title='Redis'>
     <img src='pic/Boostrap.png' width='49' title='Boostrap'>
-    <img src='pic/dotNet.png' width='49' title='.NET'>
     <img src='pic/Blazor.png' width='49' title='Blazor'>
     <img src='pic/Xamarin.png' width='49' title='Xamarin'>
     <img src='pic/MAUI.png' width='49' title='MAUI'>
+    <img src='pic/React.png' width='49' title='React'>
+    <img src='pic/Nodejs.png' width='49' title='Node.js'>
+    <img src='pic/dotNet.png' width='49' title='.NET'>
     <img src='pic/ABP.png' width='49' title='ABP'>
     <img src='pic/CCF.png' width='49' title='Cimetrix Control'>
     <img src='pic/Android.png' width='49' title='Android SDK'>
@@ -59,7 +61,6 @@
     <img src='pic/Docker.png' width='49' title='Docker'>
     <img src='pic/K8s.png' width='49' title='Kubernetes'>
     <img src='pic/K9s.png' width='49' title='K9s'>
-    <img src='pic/ElasticStack.png' width='49' title='Elastic Stack'>
     <img src='pic/Elasticsearch.png' width='49' title='Elasticsearch'>
     <img src='pic/Logstash.png' width='49' title='Logstash'>
     <img src='pic/Kibana.png' width='49' title='Kibana'>
@@ -105,16 +106,17 @@
     <img src='pic/AmazonDocumentDB.png' width='49' title='Amazon DocumentDB'>
     <img src='pic/ElastiCache.png' width='49' title='AWS ElastiCache'>
     <img src='pic/AmazonOpenSearchService.png' width='49' title='Amazon OpenSearch Service'>
-    <img src='pic/S3.png' width='49' title='S3'>
+    <img src='pic/S3.png' width='49' title='AWS S3'>
     <img src='pic/AmazonMQ.png' width='49' title='Amazon MQ'>
     <img src='pic/CloudFront.png' width='49' title='AWS CloudFront'>
+    <img src='pic/CloudWatch.png' width='49' title='AWS CloudWatch'>
     <img src='pic/Route53.png' width='49' title='AWS Route 53'>
     <img src='pic/CertificateManager.png' width='49' title='AWS Certificate Manager'>
     <img src='pic/Billing.png' width='49' title='AWS Billing'>
     <img src='pic/AWSCostManagement.png' width='49' title='AWS Cost Management'>
-    <img src='pic/GoogleCloudPlatform.png' width='49' title='Google Cloud Platform'>
     <img src='pic/Heroku.png' width='49' title='Heroku'>
     <img src='pic/Cloudflare.png' width='49' title='Cloudflare'>
+    <img src='pic/npm.png' width='49' title='npm'>
     <img src='pic/NuGet.png' width='49' title='NuGet'>
     <img src='pic/Unity.png' width='49' title='Unity'>
 </p>
