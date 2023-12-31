@@ -39,6 +39,7 @@
     <img src='pic/Blazor.png' width='49' title='Blazor'>
     <img src='pic/Xamarin.png' width='49' title='Xamarin'>
     <img src='pic/MAUI.png' width='49' title='MAUI'>
+    <img src='pic/Angular.png' width='49' title='Angular'>
     <img src='pic/React.png' width='49' title='React'>
     <img src='pic/Nodejs.png' width='49' title='Node.js'>
     <img src='pic/dotNet.png' width='49' title='.NET'>
