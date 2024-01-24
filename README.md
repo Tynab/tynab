@@ -89,16 +89,25 @@
     <img src='pic/Confluence.png' width='49' title='Confluence'>
     <img src='pic/drawio.png' width='49' title='draw.io'>
     <img src='pic/Figma.png' width='49' title='Figma'>
-    <img src='pic/Google.png' width='49' title='Google Cloud Platform'>
+    <img src='pic/API.png' width='49' title='Google API'>
+    <img src='pic/Map.png' width='49' title='Google Map Platform'>
     <img src='pic/AzureDevops.png' width='49' title='Azure Devops'>
     <img src='pic/AzureBoards.png' width='49' title='Azure Boards'>
     <img src='pic/AzureRepos.png' width='49' title='Azure Repos'>
     <img src='pic/AzurePipelines.png' width='49' title='Azure Pipelines'>
     <img src='pic/AzureTestPlans.png' width='49' title='Azure Test Plans'>
     <img src='pic/AzureArtifacts.png' width='49' title='Azure Artifacts'>
-    <img src='pic/AzureAppService.png' width='49' title='Azure App Service'>
+    <img src='pic/AllResources.png' width='49' title='Azure All Resources'>
+    <img src='pic/Subscriptions.png' width='49' title='Azure Subscriptions'>
+    <img src='pic/VirtualMachine.png' width='49' title='Azure Virtual Machine'>
     <img src='pic/RedisAzure.png' width='49' title='Azure Cache for Redis'>
     <img src='pic/ServiceBus.png' width='49' title='Azure Service Bus'>
+    <img src='pic/AzureAppService.png' width='49' title='Azure App Service'>
+    <img src='pic/ApplicationInsights.png' width='49' title='Azure Application Insights'>
+    <img src='pic/ResourceGroups.png' width='49' title='Azure ResourceG roups'>
+    <img src='pic/ActivityLog.png' width='49' title='Azure Activity Log'>
+    <img src='pic/AppServiceCertificates.png' width='49' title='Azure App Service Certificates'>
+    <img src='pic/Alerts.png' width='49' title='Azure Alerts'>
     <img src='pic/IAM.png' width='49' title='AWS IAM'>
     <img src='pic/VPC.png' width='49' title='AWS VPC'>
     <img src='pic/Lambda.png' width='49' title='AWS Lambda'>
