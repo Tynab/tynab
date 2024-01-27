@@ -65,6 +65,7 @@
     <img src='pic/Docker.png' width='49' title='Docker'>
     <img src='pic/K8s.png' width='49' title='Kubernetes'>
     <img src='pic/K9s.png' width='49' title='K9s'>
+    <img src='pic/Elastic.png' width='49' title='Elastic Stack'>
     <img src='pic/Elasticsearch.png' width='49' title='Elasticsearch'>
     <img src='pic/Logstash.png' width='49' title='Logstash'>
     <img src='pic/Kibana.png' width='49' title='Kibana'>
@@ -93,8 +94,10 @@
     <img src='pic/Confluence.png' width='49' title='Confluence'>
     <img src='pic/drawio.png' width='49' title='draw.io'>
     <img src='pic/Figma.png' width='49' title='Figma'>
+    <img src='pic/Google.png' width='49' title='Google Cloud Platform'>
     <img src='pic/API.png' width='49' title='Google API'>
     <img src='pic/Map.png' width='49' title='Google Map Platform'>
+    <img src='pic/Azure.png' width='49' title='Azure'>
     <img src='pic/AzureDevops.png' width='49' title='Azure Devops'>
     <img src='pic/AzureBoards.png' width='49' title='Azure Boards'>
     <img src='pic/AzureRepos.png' width='49' title='Azure Repos'>
@@ -112,6 +115,7 @@
     <img src='pic/ActivityLog.png' width='49' title='Azure Activity Log'>
     <img src='pic/AppServiceCertificates.png' width='49' title='Azure App Service Certificates'>
     <img src='pic/Alerts.png' width='49' title='Azure Alerts'>
+    <img src='pic/AWS.png' width='49' title='AWS'>
     <img src='pic/IAM.png' width='49' title='AWS IAM'>
     <img src='pic/VPC.png' width='49' title='AWS VPC'>
     <img src='pic/Lambda.png' width='49' title='AWS Lambda'>
