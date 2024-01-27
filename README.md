@@ -36,6 +36,7 @@
     <img src='pic/MongoDb.png' width='49' title='MongoDB'>
     <img src='pic/Redis.png' width='49' title='Redis'>
     <img src='pic/Boostrap.png' width='49' title='Boostrap'>
+    <img src='pic/Thymeleaf.png' width='49' title='Thymeleaf'>
     <img src='pic/Blazor.png' width='49' title='Blazor'>
     <img src='pic/Xamarin.png' width='49' title='Xamarin'>
     <img src='pic/MAUI.png' width='49' title='MAUI'>
@@ -47,10 +48,12 @@
     <img src='pic/CCF.png' width='49' title='Cimetrix Control'>
     <img src='pic/Android.png' width='49' title='Android SDK'>
     <img src='pic/Spring.png' width='49' title='Spring'>
+    <img src='pic/Lombok.png' width='49' title='Lombok'>
     <img src='pic/NumPy.png' width='49' title='NumPy'>
     <img src='pic/Matplotlib.png' width='49' title='Matplotlib'>
     <img src='pic/Pandas.png' width='49' title='Pandas'>
     <img src='pic/seaborn.png' width='49' title='seaborn'>
+    <img src='pic/SciPy.png' width='49' title='SciPy'>
     <img src='pic/Plotly.png' width='49' title='Plotly'>
     <img src='pic/sklearn.png' width='49' title='scikit-learn'>
     <img src='pic/TensorFlow.png' width='49' title='TensorFlow'>
@@ -71,6 +74,7 @@
     <img src='pic/Calico.png' width='49' title='Project Calico'>
     <img src='pic/Kong.png' width='49' title='Kong Gateway'>
     <img src='pic/NGINX.png' width='49' title='NGINX'>
+    <img src='pic/NGINXProxyManager.png' width='49' title='NGINX Proxy Manager'>
     <img src='pic/ngrok.png' width='49' title='ngrok'>
     <img src='pic/Jenkins.png' width='49' title='Jenkins'>
     <img src='pic/Ansible.png' width='49' title='Ansible'>
