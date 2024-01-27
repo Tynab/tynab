@@ -48,6 +48,7 @@
     <img src='pic/CCF.png' width='49' title='Cimetrix Control'>
     <img src='pic/Android.png' width='49' title='Android SDK'>
     <img src='pic/Spring.png' width='49' title='Spring'>
+    <img src='pic/CAP.png' width='49' title='DotNetCore.CAP'>
     <img src='pic/Lombok.png' width='49' title='Lombok'>
     <img src='pic/NumPy.png' width='49' title='NumPy'>
     <img src='pic/Matplotlib.png' width='49' title='Matplotlib'>
