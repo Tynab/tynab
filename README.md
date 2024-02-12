@@ -48,8 +48,6 @@
     <img src='pic/CCF.png' width='49' title='Cimetrix Control'>
     <img src='pic/Android.png' width='49' title='Android SDK'>
     <img src='pic/Spring.png' width='49' title='Spring'>
-    <img src='pic/CAP.png' width='49' title='DotNetCore.CAP'>
-    <img src='pic/Lombok.png' width='49' title='Lombok'>
     <img src='pic/NumPy.png' width='49' title='NumPy'>
     <img src='pic/Matplotlib.png' width='49' title='Matplotlib'>
     <img src='pic/Pandas.png' width='49' title='Pandas'>
@@ -62,6 +60,8 @@
     <img src='pic/PyTorch.png' width='49' title='PyTorch'>
     <img src='pic/Pymunk.png' width='49' title='Pymunk'>
     <img src='pic/Pygame.png' width='49' title='Pygame'>
+    <img src='pic/CAP.png' width='49' title='DotNetCore.CAP'>
+    <img src='pic/Lombok.png' width='49' title='Lombok'>
     <img src='pic/Vagrant.png' width='49' title='Vagrant'>
     <img src='pic/Docker.png' width='49' title='Docker'>
     <img src='pic/K8s.png' width='49' title='Kubernetes'>
@@ -99,45 +99,81 @@
     <img src='pic/API.png' width='49' title='Google API'>
     <img src='pic/Map.png' width='49' title='Google Map Platform'>
     <img src='pic/Azure.png' width='49' title='Azure'>
+    <img src='pic/ActivityLog.png' width='49' title='Azure Activity Log'>
+    <img src='pic/Advisor.png' width='49' title='Azure Advisor'>
+    <img src='pic/Alerts.png' width='49' title='Azure Alerts'>
+    <img src='pic/AllResources.png' width='49' title='Azure All Resources'>
+    <img src='pic/APIManagementServices.png' width='49' title='Azure API Management Services'>
+    <img src='pic/ApplicationInsights.png' width='49' title='Azure Application Insights'>
+    <img src='pic/AzureAppService.png' width='49' title='Azure App Service'>
+    <img src='pic/AppServiceCertificates.png' width='49' title='Azure App Service Certificates'>
+    <img src='pic/AppServiceDomains.png' width='49' title='Azure App Service Domains'>
+    <img src='pic/AppServiceEnvironments.png' width='49' title='Azure App Service Environments'>
+    <img src='pic/AppServicePlans.png' width='49' title='Azure App Service Plans'>
+    <img src='pic/Backlog.png' width='49' title='Azure Backlog'>
+    <img src='pic/RedisAzure.png' width='49' title='Azure Cache for Redis'>
+    <img src='pic/Commit.png' width='49' title='Azure Commit'>
+    <img src='pic/ConditionalAccess.png' width='49' title='Azure Conditional Access'>
+    <img src='pic/ContainerRegistries.png' width='49' title='Azure Container Registries'>
+    <img src='pic/Controls.png' width='49' title='Azure Controls'>
+    <img src='pic/CostAlerts.png' width='49' title='Azure Cost Alerts'>
+    <img src='pic/CostAnalysis.png' width='49' title='Azure Cost Analysis'>
+    <img src='pic/CostBudgets.png' width='49' title='Azure Cost Budgets'>
+    <img src='pic/DevConsole.png' width='49' title='Azure Dev Console'>
+    <img src='pic/DiagnosticsSettings.png' width='49' title='Azure Diagnostics Settings'>
+    <img src='pic/Download.png' width='49' title='Azure Download'>
+    <img src='pic/Extensions.png' width='49' title='Azure Extensions'>
+    <img src='pic/Files.png' width='49' title='Azure Files'>
+    <img src='pic/Globe.png' width='49' title='Azure Globe'>
+    <img src='pic/LogAnalyticsWorkspaces.png' width='49' title='Azure Log Analytics Workspaces'>
+    <img src='pic/LogStreaming.png' width='49' title='Azure Log Streaming'>
+    <img src='pic/ManagedApplicationsCenter.png' width='49' title='Azure Managed Applications Center'>
+    <img src='pic/Marketplace.png' width='49' title='Azure Marketplace'>
+    <img src='pic/Metrics.png' width='49' title='Azure Metrics'>
+    <img src='pic/NetworkWatcher.png' width='49' title='Azure Network Watcher'>
+    <img src='pic/Power.png' width='49' title='Azure Power'>
+    <img src='pic/RecoveryServicesVaults.png' width='49' title='Azure Recovery Services Vaults'>
+    <img src='pic/ResourceGroups.png' width='49' title='Azure Resource Groups'>
+    <img src='pic/Scale.png' width='49' title='Azure Scale'>
+    <img src='pic/ServiceBus.png' width='49' title='Azure Service Bus'>
+    <img src='pic/SecurityCenter.png' width='49' title='Azure Security Center'>
+    <img src='pic/ServiceHealth.png' width='49' title='Azure Service Health'>
+    <img src='pic/Subscriptions.png' width='49' title='Azure Subscriptions'>
+    <img src='pic/Table.png' width='49' title='Azure Table'>
+    <img src='pic/Tags.png' width='49' title='Azure Tags'>
+    <img src='pic/UserSubscriptions.png' width='49' title='Azure User Subscriptions'>
+    <img src='pic/VirtualMachine.png' width='49' title='Azure Virtual Machine'>
+    <img src='pic/VirtualNetworks.png' width='49' title='Azure Virtual Networks'>
+    <img src='pic/AzureWorkbooks.png' width='49' title='Azure Workbooks'>
+    <img src='pic/Workflow.png' width='49' title='Azure Workflow'>
     <img src='pic/AzureDevops.png' width='49' title='Azure Devops'>
     <img src='pic/AzureBoards.png' width='49' title='Azure Boards'>
     <img src='pic/AzureRepos.png' width='49' title='Azure Repos'>
     <img src='pic/AzurePipelines.png' width='49' title='Azure Pipelines'>
     <img src='pic/AzureTestPlans.png' width='49' title='Azure Test Plans'>
     <img src='pic/AzureArtifacts.png' width='49' title='Azure Artifacts'>
-    <img src='pic/AllResources.png' width='49' title='Azure All Resources'>
-    <img src='pic/Subscriptions.png' width='49' title='Azure Subscriptions'>
-    <img src='pic/VirtualMachine.png' width='49' title='Azure Virtual Machine'>
-    <img src='pic/RedisAzure.png' width='49' title='Azure Cache for Redis'>
-    <img src='pic/ServiceBus.png' width='49' title='Azure Service Bus'>
-    <img src='pic/AzureAppService.png' width='49' title='Azure App Service'>
-    <img src='pic/ApplicationInsights.png' width='49' title='Azure Application Insights'>
-    <img src='pic/ResourceGroups.png' width='49' title='Azure ResourceG roups'>
-    <img src='pic/ActivityLog.png' width='49' title='Azure Activity Log'>
-    <img src='pic/AppServiceCertificates.png' width='49' title='Azure App Service Certificates'>
-    <img src='pic/Alerts.png' width='49' title='Azure Alerts'>
     <img src='pic/AWS.png' width='49' title='AWS'>
-    <img src='pic/IAM.png' width='49' title='AWS IAM'>
-    <img src='pic/VPC.png' width='49' title='AWS VPC'>
-    <img src='pic/Lambda.png' width='49' title='AWS Lambda'>
-    <img src='pic/EC2.png' width='49' title='AWS EC2'>
-    <img src='pic/EKS.png' width='49' title='AWS EKS'>
-    <img src='pic/ECS.png' width='49' title='AWS ECS'>
-    <img src='pic/ECR.png' width='49' title='AWS ECR'>
-    <img src='pic/RDS.png' width='49' title='AWS RDS'>
     <img src='pic/AmazonDocumentDB.png' width='49' title='Amazon DocumentDB'>
-    <img src='pic/ElastiCache.png' width='49' title='AWS ElastiCache'>
     <img src='pic/AmazonOpenSearchService.png' width='49' title='Amazon OpenSearch Service'>
-    <img src='pic/S3.png' width='49' title='AWS S3'>
     <img src='pic/CodeCommit.png' width='49' title='AWS CodeCommit'>
     <img src='pic/AmazonMQ.png' width='49' title='Amazon MQ'>
+    <img src='pic/Billing.png' width='49' title='AWS Billing'>
+    <img src='pic/CertificateManager.png' width='49' title='AWS Certificate Manager'>
     <img src='pic/CloudFront.png' width='49' title='AWS CloudFront'>
     <img src='pic/CloudWatch.png' width='49' title='AWS CloudWatch'>
-    <img src='pic/Route53.png' width='49' title='AWS Route 53'>
     <img src='pic/Cloud9.png' width='49' title='AWS Cloud 9'>
-    <img src='pic/CertificateManager.png' width='49' title='AWS Certificate Manager'>
-    <img src='pic/Billing.png' width='49' title='AWS Billing'>
     <img src='pic/AWSCostManagement.png' width='49' title='AWS Cost Management'>
+    <img src='pic/EC2.png' width='49' title='AWS EC2'>
+    <img src='pic/ECR.png' width='49' title='AWS ECR'>
+    <img src='pic/ECS.png' width='49' title='AWS ECS'>
+    <img src='pic/EKS.png' width='49' title='AWS EKS'>
+    <img src='pic/ElastiCache.png' width='49' title='AWS ElastiCache'>
+    <img src='pic/IAM.png' width='49' title='AWS IAM'>
+    <img src='pic/Lambda.png' width='49' title='AWS Lambda'>
+    <img src='pic/RDS.png' width='49' title='AWS RDS'>
+    <img src='pic/Route53.png' width='49' title='AWS Route 53'>
+    <img src='pic/S3.png' width='49' title='AWS S3'>
+    <img src='pic/VPC.png' width='49' title='AWS VPC'>
     <img src='pic/Heroku.png' width='49' title='Heroku'>
     <img src='pic/Cloudflare.png' width='49' title='Cloudflare'>
     <img src='pic/npm.png' width='49' title='npm'>
