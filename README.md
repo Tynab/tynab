@@ -95,6 +95,35 @@
     <img src='pic/Confluence.png' width='44' title='Confluence'>
     <img src='pic/drawio.png' width='44' title='draw.io'>
     <img src='pic/Figma.png' width='44' title='Figma'>
+    <img src='pic/AWS.png' width='44' title='AWS'>
+    <img src='pic/IAM.png' width='44' title='AWS IAM'>
+    <img src='pic/CertificateManager.png' width='44' title='AWS Certificate Manager'>
+    <img src='pic/ApiGateway.png' width='44' title='AWS API Gateway'>
+    <img src='pic/VPC.png' width='44' title='AWS VPC'>
+    <img src='pic/Route53.png' width='44' title='AWS Route 53'>
+    <img src='pic/Cloud9.png' width='44' title='AWS Cloud 9'>
+    <img src='pic/CloudMap.png' width='44' title='AWS Cloud Map'>
+    <img src='pic/CloudFront.png' width='44' title='AWS CloudFront'>
+    <img src='pic/CloudWatch.png' width='44' title='AWS CloudWatch'>
+    <img src='pic/EC2.png' width='44' title='AWS EC2'>
+    <img src='pic/EKS.png' width='44' title='AWS Elastic Kubernetes Service'>
+    <img src='pic/ElasticBeanstalk.png' width='44' title='AWS Elastic Beanstalk'>
+    <img src='pic/ECS.png' width='44' title='AWS Elastic Container Service'>
+    <img src='pic/ECR.png' width='44' title='AWS Elastic Container Registry'>
+    <img src='pic/Lambda.png' width='44' title='AWS Lambda'>
+    <img src='pic/CodeCommit.png' width='44' title='AWS CodeCommit'>
+    <img src='pic/CodeBuild.png' width='44' title='AWS CodeBuild'>
+    <img src='pic/CodeArtifact.png' width='44' title='AWS CodeArtifact'>
+    <img src='pic/CodeDeploy.png' width='44' title='AWS CodeDeploy'>
+    <img src='pic/CodePipeline.png' width='44' title='AWS CodePipeline'>
+    <img src='pic/S3.png' width='44' title='AWS S3'>
+    <img src='pic/RDS.png' width='44' title='AWS RDS'>
+    <img src='pic/AmazonDocumentDB.png' width='44' title='Amazon DocumentDB'>
+    <img src='pic/AmazonOpenSearchService.png' width='44' title='Amazon OpenSearch Service'>
+    <img src='pic/ElastiCache.png' width='44' title='AWS ElastiCache'>
+    <img src='pic/AmazonMQ.png' width='44' title='Amazon MQ'>
+    <img src='pic/Billing.png' width='44' title='AWS Billing'>
+    <img src='pic/AWSCostManagement.png' width='44' title='AWS Cost Management'>
     <img src='pic/Google.png' width='44' title='Google Cloud Platform'>
     <img src='pic/API.png' width='44' title='Google API'>
     <img src='pic/Map.png' width='44' title='Google Map Platform'>
@@ -152,28 +181,6 @@
     <img src='pic/AzurePipelines.png' width='44' title='Azure Pipelines'>
     <img src='pic/AzureTestPlans.png' width='44' title='Azure Test Plans'>
     <img src='pic/AzureArtifacts.png' width='44' title='Azure Artifacts'>
-    <img src='pic/AWS.png' width='44' title='AWS'>
-    <img src='pic/AmazonDocumentDB.png' width='44' title='Amazon DocumentDB'>
-    <img src='pic/AmazonOpenSearchService.png' width='44' title='Amazon OpenSearch Service'>
-    <img src='pic/CodeCommit.png' width='44' title='AWS CodeCommit'>
-    <img src='pic/AmazonMQ.png' width='44' title='Amazon MQ'>
-    <img src='pic/Billing.png' width='44' title='AWS Billing'>
-    <img src='pic/CertificateManager.png' width='44' title='AWS Certificate Manager'>
-    <img src='pic/CloudFront.png' width='44' title='AWS CloudFront'>
-    <img src='pic/CloudWatch.png' width='44' title='AWS CloudWatch'>
-    <img src='pic/Cloud9.png' width='44' title='AWS Cloud 9'>
-    <img src='pic/AWSCostManagement.png' width='44' title='AWS Cost Management'>
-    <img src='pic/EC2.png' width='44' title='AWS EC2'>
-    <img src='pic/ECR.png' width='44' title='AWS ECR'>
-    <img src='pic/ECS.png' width='44' title='AWS ECS'>
-    <img src='pic/EKS.png' width='44' title='AWS EKS'>
-    <img src='pic/ElastiCache.png' width='44' title='AWS ElastiCache'>
-    <img src='pic/IAM.png' width='44' title='AWS IAM'>
-    <img src='pic/Lambda.png' width='44' title='AWS Lambda'>
-    <img src='pic/RDS.png' width='44' title='AWS RDS'>
-    <img src='pic/Route53.png' width='44' title='AWS Route 53'>
-    <img src='pic/S3.png' width='44' title='AWS S3'>
-    <img src='pic/VPC.png' width='44' title='AWS VPC'>
     <img src='pic/Heroku.png' width='44' title='Heroku'>
     <img src='pic/Cloudflare.png' width='44' title='Cloudflare'>
     <img src='pic/npm.png' width='44' title='npm'>
