@@ -65,8 +65,8 @@
     <img src='pic/Vagrant.png' width='44' title='Vagrant'>
     <img src='pic/Docker.png' width='44' title='Docker'>
     <img src='pic/Podman.png' width='44' title='Podman'>
-    <img src='pic/Podman.png' width='44' title='Podman'>
     <img src='pic/DockerCompose.png' width='44' title='Docker Compose'>
+    <img src='pic/Minikube.png' width='44' title='Minikube'>
     <img src='pic/K8s.png' width='44' title='Kubernetes'>
     <img src='pic/K9s.png' width='44' title='K9s'>
     <img src='pic/Elastic.png' width='44' title='Elastic Stack'>
@@ -84,6 +84,8 @@
     <img src='pic/Jenkins.png' width='44' title='Jenkins'>
     <img src='pic/Ansible.png' width='44' title='Ansible'>
     <img src='pic/Portainer.png' width='44' title='Portainer'>
+    <img src='pic/SignalR.png' width='44' title='SignalR'>
+    <img src='pic/Hangfire.png' width='44' title='Hangfire'>
     <img src='pic/RabbitMq.png' width='44' title='RabbitMQ'>
     <img src='pic/Maven.png' width='44' title='Apache Maven'>
     <img src='pic/Tomcat.png' width='44' title='Apache Tomcat'>
