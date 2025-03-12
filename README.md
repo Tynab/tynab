@@ -35,7 +35,7 @@
     <img src='pic/SqLite.png' width='44' title='SQLite'>
     <img src='pic/MongoDb.png' width='44' title='MongoDB'>
     <img src='pic/Redis.png' width='44' title='Redis'>
-    <img src='pic/Boostrap.png' width='44' title='Boostrap'>
+    <img src='pic/Bootstrap.png' width='44' title='Bootstrap'>
     <img src='pic/Thymeleaf.png' width='44' title='Thymeleaf'>
     <img src='pic/Blazor.png' width='44' title='Blazor'>
     <img src='pic/Xamarin.png' width='44' title='Xamarin'>
@@ -62,6 +62,8 @@
     <img src='pic/Pygame.png' width='44' title='Pygame'>
     <img src='pic/CAP.png' width='44' title='DotNetCore.CAP'>
     <img src='pic/Lombok.png' width='44' title='Lombok'>
+    <img src='pic/n8n.png' width='44' title='n8n'>
+    <img src='pic/Terraform.png' width='44' title='Terraform'>
     <img src='pic/Vagrant.png' width='44' title='Vagrant'>
     <img src='pic/Ollama.png' width='44' title='Ollama'>
     <img src='pic/Podman.png' width='44' title='Podman'>
