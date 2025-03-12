@@ -138,6 +138,7 @@
     <img src='pic/AmazonMQ.png' width='44' title='Amazon MQ'>
     <img src='pic/SNS.png' width='44' title='AWS Simple Notification Service'>
     <img src='pic/Chatbot.png' width='44' title='AWS Chatbot'>
+    <img src='pic/Q.png' width='44' title='Amazon Q'>
     <img src='pic/Billing.png' width='44' title='AWS Billing'>
     <img src='pic/AWSCostManagement.png' width='44' title='AWS Cost Management'>
     <img src='pic/Google.png' width='44' title='Google Cloud Platform'>
