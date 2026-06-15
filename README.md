@@ -115,6 +115,7 @@
     <img src='pic/Google.png' width='49' title='GCP'>
     <img src='pic/Apache.png' width='49' title='Apache'>
     <img src='pic/Atlassian.png' width='49' title='Atlassian'>
+    <img src='pic/ComfyUI.png' width='49' title='ComfyUI'>
 </p>
 
 <p align='center'>
