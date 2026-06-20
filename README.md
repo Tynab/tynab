@@ -101,6 +101,7 @@
     <!-- Observability / Security / Networking -->
     <img src='pic/Prometheus.png' width='49' title='Prometheus'>
     <img src='pic/Grafana.png' width='49' title='Grafana'>
+    <img src='pic/Zabbix.png' width='49' title='Zabbix'>
     <img src='pic/Wazuh.png' width='49' title='Wazuh'>
     <img src='pic/Calico.png' width='49' title='Project Calico'>
     <img src='pic/Kong.png' width='49' title='Kong Gateway'>
