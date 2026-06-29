@@ -35,6 +35,8 @@
     <img src='pic/ABP.png' width='49' title='ABP'>
     <img src='pic/Spring.png' width='49' title='Spring'>
     <img src='pic/Thymeleaf.png' width='49' title='Thymeleaf'>
+    <img src='pic/OpenAPI.png' width='49' title='OpenAPI'>
+    <img src='pic/AsyncAPI.png' width='49' title='AsyncAPI'>
     <img src='pic/SignalR.png' width='49' title='SignalR'>
     <img src='pic/Hangfire.png' width='49' title='Hangfire'>
     <!-- Programming Languages -->
@@ -53,6 +55,7 @@
     <img src='pic/Android.png' width='49' title='Android SDK'>
     <img src='pic/Xamarin.png' width='49' title='Xamarin'>
     <img src='pic/MAUI.png' width='49' title='MAUI'>
+    <img src='pic/Realm.png' width='49' title='Realm'>
     <!-- Database / Storage / Search -->
     <img src='pic/Postgre.png' width='49' title='PostgreSQL'>
     <img src='pic/MySQL.png' width='49' title='MySQL'>
@@ -66,6 +69,7 @@
     <img src='pic/Elastic.png' width='49' title='Elastic Stack'>
     <img src='pic/ClickHouse.png' width='49' title='ClickHouse'>
     <img src='pic/Snowflake.png' width='49' title='Snowflake'>
+    <img src='pic/Superset.png' width='49' title='Superset'>
     <!-- Messaging / Workflow Automation -->
     <img src='pic/RabbitMq.png' width='49' title='RabbitMQ'>
     <img src='pic/n8n.png' width='49' title='n8n'>
@@ -97,7 +101,9 @@
     <img src='pic/K3s.png' width='49' title='K3s'>
     <img src='pic/Minikube.png' width='49' title='Minikube'>
     <img src='pic/K9s.png' width='49' title='K9s'>
+    <img src='pic/Velero.png' width='49' title='Velero'>
     <img src='pic/Helm.png' width='49' title='Helm'>
+    <img src='pic/KEDA.png' width='49' title='KEDA'>
     <img src='pic/Argo.png' width='49' title='Argo'>
     <img src='pic/Jenkins.png' width='49' title='Jenkins'>
     <img src='pic/Terraform.png' width='49' title='Terraform'>
@@ -106,10 +112,13 @@
     <img src='pic/Portainer.png' width='49' title='Portainer'>
     <img src='pic/Watchtower.png' width='49' title='Watchtower'>
     <!-- Observability / Security / Networking -->
+    <img src='pic/OpenTelemetry.png' width='49' title='OpenTelemetry'>
     <img src='pic/Prometheus.png' width='49' title='Prometheus'>
     <img src='pic/Grafana.png' width='49' title='Grafana'>
     <img src='pic/Zabbix.png' width='49' title='Zabbix'>
     <img src='pic/Wazuh.png' width='49' title='Wazuh'>
+    <img src='pic/Kyverno.png' width='49' title='Kyverno'>
+    <img src='pic/Keycloak.png' width='49' title='Keycloak'>
     <img src='pic/Calico.png' width='49' title='Project Calico'>
     <img src='pic/Kong.png' width='49' title='Kong Gateway'>
     <img src='pic/Konga.png' width='49' title='Konga'>
@@ -135,6 +144,8 @@
     <!-- Game / 3D / Creative Tools -->
     <img src='pic/Unity.png' width='49' title='Unity'>
     <img src='pic/Godot.png' width='49' title='Godot'>
+    <img src='pic/OpenMatch.png' width='49' title='Open Match'>
+    <img src='pic/Agones.png' width='49' title='Agones'>
     <img src='pic/Blender.png' width='49' title='Blender'>
     <img src='pic/Tripo3D.png' width='49' title='Tripo 3D'>
     <img src='pic/Meshy.png' width='49' title='Meshy'>
